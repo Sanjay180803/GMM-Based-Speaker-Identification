@@ -1,6 +1,6 @@
 # Speaker Identification using Gaussian Mixture Models (GMM)
 
-This project implements **speaker identification** using Gaussian Mixture Models (GMMs). It trains speaker models on normal speech data (TDSC control data) [Audio Data](https://catalog.ldc.upenn.edu/LDC2021S04) and tests on samples from the KADBAT dataset. By modeling speaker-specific voice features, the system identifies speakers based on the statistical likelihood that their speech matches a trained GMM.
+This project implements **speaker identification** using Gaussian Mixture Models (GMMs). It trains speaker models on normal speech data (TDSC control data) [Audio Data](https://catalog.ldc.upenn.edu/LDC2021S04) and tests on samples from the Kathbath dataset (Tamil). By modeling speaker-specific voice features, the system identifies speakers based on the statistical likelihood that their speech matches a trained GMM.
 
 
 ## How the GMM-based Speaker Identification Works
